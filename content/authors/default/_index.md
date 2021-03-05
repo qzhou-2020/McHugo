@@ -12,9 +12,9 @@ email: ""
 #- Credit risk and fixed income
 #- Derivatives and real-options
 
-name: John Doe
+name: Quan Zhou
 
-role: Finance Ph.D. Candidate
+role: Operations Management Ph.D. student
 
 organizations:
 #- name: Queen's University (starting 2021)
