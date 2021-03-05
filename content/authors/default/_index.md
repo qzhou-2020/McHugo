@@ -19,31 +19,31 @@ role: Operations Management Ph.D. student
 organizations:
 #- name: Queen's University (starting 2021)
 - name: McGill University
-  url: https://www.mcgill.ca/desautels/john-doe
+  url: https://www.mcgill.ca/desautels/quan-zhou
 
 
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/john-doe/
+  link: https://www.linkedin.com/in/quan-zhou-m-eng-p-eng-93389512b/
 - icon: cv-square
   icon_pack: ai
-  link: files/John_Doe_CV.pdf
+  link: files/CV_QUAN_2019.pdf
 - icon: envelope-square
   icon_pack: fas
-  link: 'mailto:john.doe@mcgill.ca'
+  link: 'mailto:quan.zhou3@mail.mcgill.ca'
 - icon: github
   icon_pack: fab
-  link: https://github.com/johndoe
-- icon: google-scholar-square
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=1234567
-- icon: ssrn-square
-  icon_pack: ai
-  link: https://ssrn.com/author=1234567
+  link: https://github.com/qzhou-2020
+# - icon: google-scholar-square
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=1234567
+# - icon: ssrn-square
+#   icon_pack: ai
+#   link: https://ssrn.com/author=1234567
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
-My research interests include Asset Pricing, Asset Pricing, and Asset Pricing.
+My research interests include XXX.

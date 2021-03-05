@@ -20,13 +20,13 @@ font_size: L
 ### SEO ###
 site_type: Person
 local_business_type: ''
-org_name: 'John Doe'
+org_name: 'Quan Zhou'
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: 'I am a Finance Ph.D. Candidate at McGill University. My research interests include Asset Pricing, Asset Pricing, and More Asset Pricing'
+description: 'I am a Operations Management Ph.D. student at McGill University. My research interests include XXX'
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter: 'JohnDoeMcGill'
+twitter: ""
 
 # Diplay a logo or initials in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
